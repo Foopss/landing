@@ -45,35 +45,6 @@
 </head>
 <body>	
 
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-    (function (d, w, c) {
-        (w[c] = w[c] || []).push(function() {
-            try {
-                w.yaCounter49103998 = new Ya.Metrika2({
-                    id:49103998,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true,
-                    webvisor:true
-                });
-            } catch(e) { }
-        });
-
-        var n = d.getElementsByTagName("script")[0],
-            s = d.createElement("script"),
-            f = function () { n.parentNode.insertBefore(s, n); };
-        s.type = "text/javascript";
-        s.async = true;
-        s.src = "https://mc.yandex.ru/metrika/tag.js";
-
-        if (w.opera == "[object Opera]") {
-            d.addEventListener("DOMContentLoaded", f, false);
-        } else { f(); }
-    })(document, window, "yandex_metrika_callbacks2");
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/49103998" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
 
 	<div id="phone2">
 		<p style="margin: 0; padding: 0;"><span id="hide2">Есть вопросы? Звоните!</span> <span id="number" style="color: #ffec00;"><a href="tel:84994041411" style="color: #ffec00; text-decoration: none;">8 (499) 404-14-11</a></span></p>
@@ -83,13 +54,13 @@
 		<div class="top">
 			<div class="wrapper">
 				<img src="images/header__logo.jpg" alt="JBL Pulse 3" title="JBL Pulse 3">
-				<p>Слушайте музыку <b>без проводов</b> <span>|</span> Заряжайте устройства <b>без розетки</b></p>
+				<p>Слушайте музыку <b>без проводов</b> <span>|</span> Заряжайте устройства <b>без розетки !</b></p>
 			</div>
 		</div>
 		<div class="wrapper">
 			<h1>Pulse 3</h1>
 
-			<p class="description">Портативная акустическая система с защитой от брызг и аккумулятором большой емкости</p>
+			<p class="description">Портативная акустическая система с защитой от брызг и аккумулятором большой емкости !</p>
 
 			<div class="price_block">
 				<div class="old">5290р.</div>
